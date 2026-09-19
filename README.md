@@ -2,9 +2,9 @@
 Mod for HBS BattleTech / BEXT providing additional Commander only battlefield abilities.
 <img width="1920" height="1080" alt="20260919081655_1" src="https://github.com/user-attachments/assets/d9e65844-b9ff-4efd-9767-bce7dce67e18" />
 
-Command Abilities gives your player commander three combat orders. You can tell NPC allied lances to concentrate fire on one enemy, send them sprinting to a point on the map, or plant and try to break a rattled enemy MechWarrior into ejecting. Allied lances may refuse an order and your own lance is not affected by the abilities. Using any of the three abilities puts all of them on cooldown for 4 rounds.
+Command Abilities gives your player commander three new combat orders. You can tell NPC allied lances to concentrate fire on one enemy, send them sprinting to a point on the map, or plant your Commander's 'Mech in place and try to break a rattled enemy MechWarrior into ejecting. Allied lances may refuse an order and your own lance is not affected by the abilities. 
 
-This mod was designed to support players undertaking the Lore Pack missions, which often have large, supportign aliied forces.
+This mod was designed to support players undertaking the Lore Pack missions, which often have large, supporting allied forces.
 
 **Overview**
 
