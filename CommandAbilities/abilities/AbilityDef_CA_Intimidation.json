@@ -1,0 +1,19 @@
+{
+  "Description": {
+    "Id": "AbilityDef_CA_Intimidation",
+    "Name": "INTIMIDATION",
+    "Details": "ACTION: Remain stationary and target one enemy 'Mech within 200m and line of sight whose pilot is rattled (not Confident). Roll your Guts against their Guts, panic, damage, and team Resolve. Success: they eject. Failure: the enemy team gains Resolve.\r\n<i>Shares a 4-round cooldown with Priority Target and Priority Move. Once per combat. Costs 20 Resolve.</i>",
+    "Icon": "ca_intimidation"
+  },
+  "DisplayParams": "ShowInMWTRay",
+  "ActivationTime": "ConsumedByFiring",
+  "Resource": "ConsumesFiring",
+  "ActivationCooldown": 4,
+  "NumberOfUses": 1,
+  "Targeting": "ActorSelf",
+  "FloatParam1": 200.0,
+  "IsPrimaryAbility": false,
+  "StringParam1": "INTIMIDATION is unavailable.",
+  "EffectData": [],
+  "Priority": 0
+}

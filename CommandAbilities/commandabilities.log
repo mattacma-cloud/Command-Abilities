@@ -1,0 +1,1700 @@
+15:15:23 [CommandAbilities] Loaded bark catalog v2
+15:15:23 [CommandAbilities] PanicSystem bridge Available=True
+15:15:23 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+15:15:23 [CommandAbilities] Patched Team.AddUnit
+15:15:23 [CommandAbilities] Patched Pilot.InitAbilities
+15:15:23 [CommandAbilities] Patched TurnDirector.BeginNewRound
+15:15:23 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+15:15:23 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+15:15:23 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+15:15:23 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+15:15:23 [CommandAbilities] Init complete. PanicSystem=True
+15:49:13 [CommandAbilities] AbilityDef missing: AbilityDef_CA_PriorityTarget
+15:49:13 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to 01 BLUE SHARK
+15:49:13 [CommandAbilities] AbilityDef missing: AbilityDef_CA_Intimidation
+16:28:29 [CommandAbilities] Loaded bark catalog v2
+16:28:30 [CommandAbilities] PanicSystem bridge Available=True
+16:28:30 [CommandAbilities] Ability.Activate(Team, ICombatant)
+16:28:30 [CommandAbilities] Ability.Activate(Team, Vector3)
+16:28:30 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+16:28:30 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+16:28:30 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+16:28:30 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+16:28:30 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+16:28:30 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+16:28:30 [CommandAbilities] Patched Team.AddUnit
+16:28:30 [CommandAbilities] Patched Pilot.InitAbilities
+16:28:30 [CommandAbilities] Patched TurnDirector.BeginNewRound
+16:28:30 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+16:28:30 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+16:28:30 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+16:28:30 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+16:28:30 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+16:28:30 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+16:28:30 [CommandAbilities] Init complete. PanicSystem=True
+10:13:59 [CommandAbilities] Loaded bark catalog v2
+10:13:59 [CommandAbilities] PanicSystem bridge Available=True
+10:13:59 [CommandAbilities] Ability.Activate(Team, ICombatant)
+10:13:59 [CommandAbilities] Ability.Activate(Team, Vector3)
+10:13:59 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+10:13:59 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+10:13:59 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+10:13:59 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+10:13:59 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+10:13:59 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+10:13:59 [CommandAbilities] Patched Team.AddUnit
+10:13:59 [CommandAbilities] Patched Pilot.InitAbilities
+10:13:59 [CommandAbilities] Patched TurnDirector.BeginNewRound
+10:13:59 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+10:13:59 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+10:13:59 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+10:13:59 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+10:13:59 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+10:13:59 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+10:13:59 [CommandAbilities] Init complete. PanicSystem=True
+10:46:34 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to 01 SLINGER
+10:46:34 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to 01 SLINGER
+10:46:34 [CommandAbilities] Granted AbilityDef_CA_Intimidation to 01 SLINGER
+10:47:03 [CommandAbilities] Extra button Init: cannot get method value without method
+10:47:03 [CommandAbilities] Extra button Init: An item with the same key has already been added. Key: 42973330
+10:47:03 [CommandAbilities] Extra button Init: An item with the same key has already been added. Key: 42973330
+10:47:03 [CommandAbilities] Extra ability buttons=3
+10:49:47 [CommandAbilities] BindExtras commander abilities=3
+10:51:52 [CommandAbilities] BindExtras commander abilities=3
+10:51:54 [CommandAbilities] BindExtras commander abilities=3
+10:51:56 [CommandAbilities] BindExtras commander abilities=3
+10:52:51 [CommandAbilities] BindExtras commander abilities=3
+10:52:52 [CommandAbilities] BindExtras commander abilities=3
+10:52:53 [CommandAbilities] BindExtras commander abilities=3
+10:52:53 [CommandAbilities] BindExtras commander abilities=3
+10:52:54 [CommandAbilities] BindExtras commander abilities=3
+10:55:20 [CommandAbilities] BindExtras commander abilities=3
+10:55:24 [CommandAbilities] BindExtras commander abilities=3
+10:55:26 [CommandAbilities] BindExtras commander abilities=3
+11:00:30 [CommandAbilities] BindExtras commander abilities=3
+11:01:30 [CommandAbilities] BindExtras commander abilities=3
+11:01:32 [CommandAbilities] BindExtras commander abilities=3
+11:01:32 [CommandAbilities] BindExtras commander abilities=3
+11:01:35 [CommandAbilities] BindExtras commander abilities=3
+11:03:01 [CommandAbilities] BindExtras commander abilities=3
+11:03:07 [CommandAbilities] BindExtras commander abilities=3
+11:03:11 [CommandAbilities] BindExtras commander abilities=3
+11:03:14 [CommandAbilities] BindExtras commander abilities=3
+11:08:01 [CommandAbilities] BindExtras commander abilities=3
+11:23:29 [CommandAbilities] Loaded bark catalog v2
+11:23:29 [CommandAbilities] PanicSystem bridge Available=True
+11:23:29 [CommandAbilities] Ability.Activate(Team, ICombatant)
+11:23:29 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+11:23:29 [CommandAbilities] Ability.Activate(Team, Vector3)
+11:23:29 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+11:23:29 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+11:23:29 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+11:23:29 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+11:23:29 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+11:23:29 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+11:23:29 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+11:23:29 [CommandAbilities] Patched Team.AddUnit
+11:23:29 [CommandAbilities] Patched Pilot.InitAbilities
+11:23:29 [CommandAbilities] Patched TurnDirector.BeginNewRound
+11:23:29 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+11:23:29 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+11:23:29 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+11:23:29 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+11:23:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+11:23:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+11:23:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+11:23:29 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+11:23:29 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+11:23:29 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+11:23:29 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+11:23:29 [CommandAbilities] Init complete. PanicSystem=True
+11:34:11 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to 01 SLINGER
+11:34:11 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to 01 SLINGER
+11:34:11 [CommandAbilities] Granted AbilityDef_CA_Intimidation to 01 SLINGER
+11:34:39 [CommandAbilities] Expanded AbilityButtons to 105 extra=3
+11:38:12 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:38:12 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:38:14 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:14 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:14 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:14 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:23 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:38:36 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:38:36 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:38:36 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:38:36 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:41:16 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:41:20 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:41:20 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:41:20 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:41:20 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:41:27 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:41:27 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:41:27 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:41:27 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:46:54 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:46:58 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:46:58 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:46:58 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:46:58 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:47:01 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:47:01 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:47:01 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:47:01 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:49:08 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:49:14 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:49:14 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:49:14 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:49:14 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:49:21 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:49:21 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:49:21 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:49:21 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:52:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:52:17 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:52:17 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:52:17 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:52:17 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:52:20 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:52:20 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:52:20 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:52:20 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Tray buttons=102 commander abilities=3 assignedOurs=0
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_PriorityMove targeting=ActorSelf available=True
+11:57:33 [CommandAbilities] Bound AbilityDef_CA_Intimidation targeting=ActorSelf available=True
+12:18:50 [CommandAbilities] Loaded bark catalog v2
+12:18:50 [CommandAbilities] PanicSystem bridge Available=True
+12:18:50 [CommandAbilities] Ability.Activate(Team, ICombatant)
+12:18:50 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+12:18:50 [CommandAbilities] Ability.Activate(Team, Vector3)
+12:18:50 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+12:18:50 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+12:18:50 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+12:18:50 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+12:18:50 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+12:18:50 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+12:18:50 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+12:18:50 [CommandAbilities] Patched Team.AddUnit
+12:18:50 [CommandAbilities] Patched Pilot.InitAbilities
+12:18:50 [CommandAbilities] Patched TurnDirector.BeginNewRound
+12:18:50 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+12:18:50 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+12:18:50 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+12:18:50 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+12:18:50 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+12:18:50 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+12:18:50 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+12:18:50 [CommandAbilities] Patched CombatHUD.OnActorSelected
+12:18:50 [CommandAbilities] Patched CustomUnits.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:18:51 [CommandAbilities] Patched CustomAmmoCategoriesPatches.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:18:51 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+12:18:51 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+12:18:51 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+12:18:51 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+12:18:51 [CommandAbilities] Init complete. PanicSystem=True
+12:22:28 [CommandAbilities] Loaded bark catalog v2
+12:22:29 [CommandAbilities] PanicSystem bridge Available=True
+12:22:29 [CommandAbilities] Ability.Activate(Team, ICombatant)
+12:22:29 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+12:22:29 [CommandAbilities] Ability.Activate(Team, Vector3)
+12:22:29 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+12:22:29 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+12:22:29 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+12:22:29 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+12:22:29 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+12:22:29 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+12:22:29 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+12:22:29 [CommandAbilities] Patched Team.AddUnit
+12:22:29 [CommandAbilities] Patched Pilot.InitAbilities
+12:22:29 [CommandAbilities] Patched TurnDirector.BeginNewRound
+12:22:29 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+12:22:29 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+12:22:29 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+12:22:29 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+12:22:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+12:22:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+12:22:29 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+12:22:29 [CommandAbilities] Patched CombatHUD.OnActorSelected
+12:22:29 [CommandAbilities] Patched CustomUnits.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:22:29 [CommandAbilities] Patched CustomAmmoCategoriesPatches.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:22:29 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+12:22:29 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+12:22:29 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+12:22:29 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+12:22:29 [CommandAbilities] Init complete. PanicSystem=True
+12:24:38 [CommandAbilities] Loaded bark catalog v2
+12:24:38 [CommandAbilities] PanicSystem bridge Available=True
+12:24:38 [CommandAbilities] Ability.Activate(Team, ICombatant)
+12:24:38 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+12:24:38 [CommandAbilities] Ability.Activate(Team, Vector3)
+12:24:38 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+12:24:38 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+12:24:38 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+12:24:38 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+12:24:38 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+12:24:38 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+12:24:38 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+12:24:38 [CommandAbilities] Patched Team.AddUnit
+12:24:38 [CommandAbilities] Patched Pilot.InitAbilities
+12:24:38 [CommandAbilities] Patched TurnDirector.BeginNewRound
+12:24:38 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+12:24:38 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+12:24:38 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+12:24:38 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+12:24:38 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+12:24:38 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+12:24:38 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+12:24:38 [CommandAbilities] Patched CombatHUD.OnActorSelected
+12:24:38 [CommandAbilities] Patched CustomUnits.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:24:39 [CommandAbilities] Patched CustomAmmoCategoriesPatches.CombatHUDMechwarriorTray_ResetAbilityButtons.Postfix
+12:24:39 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+12:24:39 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+12:24:39 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+12:24:39 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+12:24:39 [CommandAbilities] Init complete. PanicSystem=True
+12:34:42 [CommandAbilities] Loaded bark catalog v2
+12:34:42 [CommandAbilities] PanicSystem bridge Available=True
+12:34:42 [CommandAbilities] Ability.Activate(Team, ICombatant)
+12:34:42 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+12:34:42 [CommandAbilities] Ability.Activate(Team, Vector3)
+12:34:42 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+12:34:42 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+12:34:42 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+12:34:42 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+12:34:42 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+12:34:42 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+12:34:42 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+12:34:42 [CommandAbilities] Patched Team.AddUnit
+12:34:42 [CommandAbilities] Patched Pilot.InitAbilities
+12:34:42 [CommandAbilities] Patched TurnDirector.BeginNewRound
+12:34:42 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+12:34:42 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+12:34:42 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+12:34:42 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+12:34:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+12:34:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+12:34:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+12:34:42 [CommandAbilities] Patched CombatHUD.OnActorSelected
+12:34:42 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+12:34:42 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+12:34:42 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+12:34:42 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+12:34:42 [CommandAbilities] Init complete. PanicSystem=True
+12:52:05 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to 01 SLINGER
+12:52:05 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to 01 SLINGER
+12:52:05 [CommandAbilities] Granted AbilityDef_CA_Intimidation to 01 SLINGER
+12:52:48 [CommandAbilities] AbilityButtons length=102
+12:52:48 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+12:52:48 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+12:52:48 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+12:52:48 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+12:52:48 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+12:52:48 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+12:52:48 [CommandAbilities] Cloning visible holder actionButton_Holder6 parent=ActionTray3 active=True
+12:52:48 [CommandAbilities] Visible extra slots=3
+12:52:48 [CommandAbilities] Assign extra=3 commander abilities=3
+12:52:48 [CommandAbilities] InitButton fallback AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:52:48 [CommandAbilities] InitButton fallback AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:52:48 [CommandAbilities] InitButton fallback AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:52:48 [CommandAbilities] Assign extra=3 commander abilities=3
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:52:48 [CommandAbilities] Assign extra=3 commander abilities=3
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:52:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:03 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:03 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:03 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:03 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:11 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:11 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:11 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:12 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:13 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:13 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:13 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:13 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:36 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:36 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:36 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:36 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:38 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:38 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:53:38 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:53:38 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:53:40 [CommandAbilities] Assign extra=3 commander abilities=3
+12:53:40 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+12:53:40 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+12:53:40 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+12:54:32 [CommandAbilities] Assign extra=3 commander abilities=3
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:54:32 [CommandAbilities] Assign extra=3 commander abilities=3
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:54:32 [CommandAbilities] Assign extra=3 commander abilities=3
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:54:32 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:54:36 [CommandAbilities] Assign extra=3 commander abilities=3
+12:54:36 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:54:36 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:54:36 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:54:38 [CommandAbilities] Assign extra=3 commander abilities=3
+12:54:38 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+12:54:38 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+12:54:38 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+12:56:33 [CommandAbilities] Assign extra=3 commander abilities=3
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:56:33 [CommandAbilities] Assign extra=3 commander abilities=3
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:56:33 [CommandAbilities] Assign extra=3 commander abilities=3
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:56:33 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:56:35 [CommandAbilities] Assign extra=3 commander abilities=3
+12:56:35 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:56:35 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:56:35 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:56:37 [CommandAbilities] Assign extra=3 commander abilities=3
+12:56:37 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+12:56:37 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+12:56:37 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+12:58:45 [CommandAbilities] Assign extra=3 commander abilities=3
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:58:45 [CommandAbilities] Assign extra=3 commander abilities=3
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:58:45 [CommandAbilities] Assign extra=3 commander abilities=3
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+12:58:45 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+12:59:11 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+12:59:16 [CommandAbilities] Pending Intimidation from 01 SLINGER
+12:59:16 [CommandAbilities] Assign extra=3 commander abilities=3
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+12:59:16 [CommandAbilities] Assign extra=3 commander abilities=3
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+12:59:16 [CommandAbilities] Assign extra=3 commander abilities=3
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+12:59:16 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:00:48 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+13:00:48 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+13:00:48 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+13:00:48 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+13:00:53 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+13:00:56 [CommandAbilities] Pending Intimidation from 01 SLINGER
+13:00:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:00:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:00:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:00:56 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:01:01 [CommandAbilities] Assign extra=3 commander abilities=3
+13:01:01 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+13:01:01 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+13:01:01 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=False
+13:31:42 [CommandAbilities] Loaded bark catalog v2
+13:31:42 [CommandAbilities] PanicSystem bridge Available=True
+13:31:42 [CommandAbilities] Ability.Activate(Team, ICombatant)
+13:31:42 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+13:31:42 [CommandAbilities] Ability.Activate(Team, Vector3)
+13:31:42 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+13:31:42 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+13:31:42 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+13:31:42 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+13:31:42 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+13:31:42 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+13:31:42 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+13:31:42 [CommandAbilities] Patched Team.AddUnit
+13:31:42 [CommandAbilities] Patched Pilot.InitAbilities
+13:31:42 [CommandAbilities] Patched TurnDirector.BeginNewRound
+13:31:42 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+13:31:42 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+13:31:42 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+13:31:42 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+13:31:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+13:31:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+13:31:42 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+13:31:42 [CommandAbilities] Patched CombatHUD.OnActorSelected
+13:31:42 [CommandAbilities] Patched CombatHUDButtonBase.OnPointerExit
+13:31:42 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+13:31:42 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+13:31:42 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+13:31:42 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+13:31:42 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+13:31:42 [CommandAbilities] Init complete. PanicSystem=True
+13:50:40 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+13:50:40 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+13:50:40 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+13:57:09 [CommandAbilities] AbilityButtons length=102
+13:57:09 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+13:57:09 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+13:57:09 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+13:57:09 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+13:57:09 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+13:57:09 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+13:57:09 [CommandAbilities] Cloning visible holder actionButton_Holder3 parent=ActionTray2 active=False
+13:57:09 [CommandAbilities] Visible extra slots=3
+13:57:09 [CommandAbilities] Assign extra=3 commander abilities=3
+13:57:09 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:57:09 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:57:09 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:57:09 [CommandAbilities] Assign extra=3 commander abilities=3
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:57:09 [CommandAbilities] Assign extra=3 commander abilities=3
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:57:09 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:57:11 [CommandAbilities] Assign extra=3 commander abilities=3
+13:57:11 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:57:11 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:57:11 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:59:23 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:59:23 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:59:23 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+13:59:23 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+13:59:42 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+13:59:42 [CommandAbilities] Pending Priority Target from Bugbear
+13:59:51 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=92 REFUSE
+13:59:51 [CommandAbilities] Bark pt-fail-02 speaker=Ally text=I'm not following that dumb order.
+13:59:51 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=81 REFUSE
+13:59:51 [CommandAbilities] Bark pt-fail-10 speaker=Ally text=I don't take foolish orders from cocky mercenaries.
+13:59:51 [CommandAbilities] Priority Target confirmed on Defender expireRound=3
+13:59:51 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:59:51 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:59:51 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:59:51 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:59:58 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:58 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+13:59:58 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+13:59:58 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+13:59:59 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=False
+13:59:59 [CommandAbilities] Assign extra=3 commander abilities=3
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+13:59:59 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=False
+14:00:08 [CommandAbilities] Pending cancelled by selecting Taiaha
+14:02:22 [CommandAbilities] Assign extra=3 commander abilities=3
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:02:22 [CommandAbilities] Assign extra=3 commander abilities=3
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:02:22 [CommandAbilities] Assign extra=3 commander abilities=3
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:02:22 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:02:39 [CommandAbilities] Assign extra=3 commander abilities=3
+14:02:39 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+14:02:39 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+14:02:39 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+14:02:43 [CommandAbilities] Assign extra=3 commander abilities=3
+14:02:43 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:02:43 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:02:43 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:06:41 [CommandAbilities] Priority Target expired at round 4
+14:12:04 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:12:04 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:12:04 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=False
+14:12:04 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=False
+14:12:08 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+14:12:08 [CommandAbilities] Pending Intimidation from Bugbear
+14:12:12 [CommandAbilities] Intimidation target=Tactician panic=UNSETTLED guts=8vs3 dmg=0 isolated=False resolve=29 clan=False rating=- chance=46 roll=85 FAIL
+14:12:12 [CommandAbilities] Bark int-fail-02 speaker=Commander text=I bow to no intimidation!
+14:12:12 [CommandAbilities] Bark int-fail-16 speaker=Target text=You honourless dog. You seek to claim that to which you have no right.
+14:12:12 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+14:12:12 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+14:12:12 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+14:12:12 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+14:12:26 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:26 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=True
+14:12:26 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=True
+14:12:26 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=True
+14:12:27 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=False
+14:12:27 [CommandAbilities] Assign extra=3 commander abilities=3
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=False activeH=False
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=False activeH=False
+14:12:27 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=False activeH=False
+14:12:50 [CommandAbilities] Pending cancelled by selecting Sabercat
+14:34:30 [CommandAbilities] Loaded bark catalog v2
+14:34:30 [CommandAbilities] PanicSystem bridge Available=True
+14:34:30 [CommandAbilities] Ability.Activate(Team, ICombatant)
+14:34:30 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+14:34:30 [CommandAbilities] Ability.Activate(Team, Vector3)
+14:34:30 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+14:34:30 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+14:34:30 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+14:34:30 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+14:34:30 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+14:34:30 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+14:34:30 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+14:34:30 [CommandAbilities] Patched Team.AddUnit
+14:34:30 [CommandAbilities] Patched Pilot.InitAbilities
+14:34:30 [CommandAbilities] Patched TurnDirector.BeginNewRound
+14:34:30 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+14:34:30 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+14:34:30 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+14:34:30 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+14:34:30 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+14:34:30 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+14:34:30 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+14:34:30 [CommandAbilities] Patched CombatHUD.OnActorSelected
+14:34:30 [CommandAbilities] Patched CombatHUDButtonBase.OnPointerExit
+14:34:30 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.OnPointerExit
+14:34:30 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.InitForAbility
+14:34:30 [CommandAbilities] Patched CombatHUDInfoSidePanel.ForceShowPersistant
+14:34:30 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+14:34:30 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+14:34:30 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+14:34:30 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+14:34:30 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+14:34:30 [CommandAbilities] Init complete. PanicSystem=True
+15:38:58 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+15:38:58 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+15:38:58 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+17:23:17 [CommandAbilities] AbilityButtons length=102
+17:23:17 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+17:23:17 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+17:23:17 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+17:23:17 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+17:23:17 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+17:23:17 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+17:23:17 [CommandAbilities] Cloning visible holder actionButton_Holder6 parent=ActionTray3 active=True
+17:23:17 [CommandAbilities] Visible extra slots=3
+17:23:17 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:17 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+17:23:17 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+17:23:17 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+17:23:17 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+17:23:17 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+17:23:17 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+17:23:17 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:17 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:29 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:46 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:46 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:46 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:55 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityMove
+17:25:55 [CommandAbilities] Pending Priority Move from Bugbear
+17:26:15 [CommandAbilities] Assign extra=3 commander abilities=3
+17:26:18 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:05 [CommandAbilities] Pending cancelled
+17:28:01 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:01 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:01 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:03 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+17:28:03 [CommandAbilities] Pending Priority Target from Bugbear
+17:28:08 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=35 OBEY
+17:28:08 [CommandAbilities] Bark pt-success-22 speaker=Ally text=For the greater good!
+17:28:08 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=54 REFUSE
+17:28:08 [CommandAbilities] Bark pt-fail-03 speaker=Ally text=You're the reason General Kerensky wrote his Applied Concepts of Attack and Defense.
+17:28:08 [CommandAbilities] Priority Target confirmed on Pilot expireRound=4
+17:28:08 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:08 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:08 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:16 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:17 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:17 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:23 [CommandAbilities] AI focus Ian McKinnon -> Pilot
+17:28:25 [CommandAbilities] AI focus Ian McKinnon -> Pilot
+17:29:33 [CommandAbilities] AI focus George Lytton -> Pilot
+17:29:37 [CommandAbilities] AI focus George Lytton -> Pilot
+17:30:16 [CommandAbilities] AI focus Austin Vorster -> Pilot
+17:30:22 [CommandAbilities] AI focus Austin Vorster -> Pilot
+17:33:07 [CommandAbilities] AI focus Paul Danton -> Pilot
+17:33:11 [CommandAbilities] AI focus Paul Danton -> Pilot
+17:33:37 [CommandAbilities] AI focus Austin Vorster -> Pilot
+17:34:20 [CommandAbilities] AI focus Ian McKinnon -> Pilot
+17:35:02 [CommandAbilities] AI focus George Lytton -> Pilot
+17:35:09 [CommandAbilities] AI focus George Lytton -> Pilot
+17:37:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:37:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:37:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:37:55 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+17:37:55 [CommandAbilities] Pending Intimidation from Bugbear
+17:38:05 [CommandAbilities] Intimidation target=Gunner panic=UNSETTLED guts=8vs3 dmg=0 isolated=False resolve=88 clan=False rating=- chance=40 roll=3 EJECT
+17:38:05 [CommandAbilities] Bark int-success-12 speaker=Commander text=I cannot show my face to my family after this.
+17:38:05 [CommandAbilities] Bark int-success-14 speaker=Target text=I go, I go now to a better place.
+17:38:05 [CommandAbilities] Assign extra=3 commander abilities=3
+17:38:05 [CommandAbilities] Assign extra=3 commander abilities=3
+17:38:05 [CommandAbilities] Assign extra=3 commander abilities=3
+12:18:11 [CommandAbilities] Loaded bark catalog v2
+12:18:11 [CommandAbilities] PanicSystem bridge Available=True
+12:18:11 [CommandAbilities] Ability.Activate(Team, ICombatant)
+12:18:11 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+12:18:11 [CommandAbilities] Ability.Activate(Team, Vector3)
+12:18:11 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+12:18:11 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+12:18:11 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+12:18:11 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+12:18:11 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+12:18:11 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+12:18:11 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+12:18:11 [CommandAbilities] Patched Team.AddUnit
+12:18:11 [CommandAbilities] Patched Pilot.InitAbilities
+12:18:11 [CommandAbilities] Patched TurnDirector.BeginNewRound
+12:18:11 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+12:18:11 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+12:18:11 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+12:18:11 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+12:18:11 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+12:18:11 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+12:18:11 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+12:18:11 [CommandAbilities] Patched CombatHUD.OnActorSelected
+12:18:11 [CommandAbilities] Patched CombatHUDButtonBase.OnPointerExit
+12:18:11 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.OnPointerExit
+12:18:11 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.InitForAbility
+12:18:11 [CommandAbilities] Patched CombatHUDInfoSidePanel.ForceShowPersistant
+12:18:11 [CommandAbilities] Patched CombatHUDInfoSidePanel.Update
+12:18:11 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+12:18:11 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+12:18:11 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+12:18:11 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+12:18:11 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+12:18:11 [CommandAbilities] Init complete. PanicSystem=True
+13:11:32 [CommandAbilities] Loaded bark catalog v2
+13:11:32 [CommandAbilities] PanicSystem bridge Available=True
+13:11:32 [CommandAbilities] Ability.Activate(Team, ICombatant)
+13:11:32 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+13:11:32 [CommandAbilities] Ability.Activate(Team, Vector3)
+13:11:32 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+13:11:32 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+13:11:32 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+13:11:32 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+13:11:32 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+13:11:32 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+13:11:32 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+13:11:32 [CommandAbilities] Patched Team.AddUnit
+13:11:32 [CommandAbilities] Patched Pilot.InitAbilities
+13:11:32 [CommandAbilities] Patched TurnDirector.BeginNewRound
+13:11:32 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+13:11:32 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+13:11:32 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+13:11:32 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+13:11:32 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+13:11:32 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+13:11:32 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+13:11:32 [CommandAbilities] Patched CombatHUD.OnActorSelected
+13:11:32 [CommandAbilities] Patched CombatHUDButtonBase.OnPointerExit
+13:11:32 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.OnPointerExit
+13:11:32 [CommandAbilities] Patched CombatHUDSidePanelHoverElement.InitForAbility
+13:11:32 [CommandAbilities] Patched CombatHUDInfoSidePanel.ForceShowPersistant
+13:11:32 [CommandAbilities] Patched CombatHUDInfoSidePanel.Update
+13:11:32 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+13:11:32 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+13:11:32 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+13:11:32 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+13:11:32 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+13:11:32 [CommandAbilities] Init complete. PanicSystem=True
+13:26:31 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+13:26:31 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+13:26:31 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+13:30:20 [CommandAbilities] AbilityButtons length=102
+13:30:20 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+13:30:20 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+13:30:20 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+13:30:20 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+13:30:20 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+13:30:20 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+13:30:20 [CommandAbilities] Cloning visible holder actionButton_Holder6 parent=ActionTray3 active=True
+13:30:20 [CommandAbilities] Visible extra slots=3
+13:30:20 [CommandAbilities] Assign extra=3 commander abilities=3
+13:30:20 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+13:30:20 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+13:30:20 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+13:30:20 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+13:30:20 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+13:30:20 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+13:30:20 [CommandAbilities] Assign extra=3 commander abilities=3
+13:30:20 [CommandAbilities] Assign extra=3 commander abilities=3
+13:30:21 [CommandAbilities] Assign extra=3 commander abilities=3
+13:32:55 [CommandAbilities] Assign extra=3 commander abilities=3
+13:32:55 [CommandAbilities] Assign extra=3 commander abilities=3
+13:32:55 [CommandAbilities] Assign extra=3 commander abilities=3
+13:32:59 [CommandAbilities] Assign extra=3 commander abilities=3
+13:33:02 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:50 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:50 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:50 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:58 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:59 [CommandAbilities] Assign extra=3 commander abilities=3
+13:36:59 [CommandAbilities] Assign extra=3 commander abilities=3
+13:37:04 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:46 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:46 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:46 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:48 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+13:43:48 [CommandAbilities] Pending Priority Target from Bugbear
+13:43:56 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=66 REFUSE
+13:43:56 [CommandAbilities] Speak HUD Ian McKinnon
+13:43:56 [CommandAbilities] Bark pt-fail-18 speaker=Ally text=That's not going to happen, not today, not ever.
+13:43:56 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=16 OBEY
+13:43:56 [CommandAbilities] Speak HUD Henrik Dekker
+13:43:56 [CommandAbilities] Bark pt-success-08 speaker=Ally text=Good call, I agree, let's get this sorted.
+13:43:56 [CommandAbilities] Priority Target confirmed on Defender expireRound=5
+13:43:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:43:56 [CommandAbilities] Assign extra=3 commander abilities=3
+13:44:06 [CommandAbilities] Assign extra=3 commander abilities=3
+13:44:07 [CommandAbilities] Assign extra=3 commander abilities=3
+13:44:07 [CommandAbilities] Assign extra=3 commander abilities=3
+13:46:22 [CommandAbilities] AI focus Lt. Karl Ryder -> Defender
+13:46:28 [CommandAbilities] AI focus Lt. Karl Ryder -> Defender
+13:46:52 [CommandAbilities] AI focus Ernst Lang -> Defender
+13:48:17 [CommandAbilities] AI focus Iskoru Chipende -> Defender
+13:48:17 [CommandAbilities] AI focus Iskoru Chipende -> Defender
+13:48:52 [CommandAbilities] AI focus Henrik Dekker -> Defender
+13:48:52 [CommandAbilities] AI focus Henrik Dekker -> Defender
+13:48:52 [CommandAbilities] AI focus Henrik Dekker -> Defender
+13:49:40 [CommandAbilities] Assign extra=3 commander abilities=3
+13:49:40 [CommandAbilities] Assign extra=3 commander abilities=3
+13:49:40 [CommandAbilities] Assign extra=3 commander abilities=3
+13:49:52 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+13:49:52 [CommandAbilities] Pending Intimidation from Bugbear
+13:49:55 [CommandAbilities] Intimidation target=Pilot panic=STRESSED guts=8vs3 dmg=10 isolated=False resolve=100 clan=False rating=- chance=55 roll=4 EJECT
+13:49:55 [CommandAbilities] Speak HUD Bugbear
+13:49:55 [CommandAbilities] Bark int-success-09 speaker=Commander text=My family are disgraced today.
+13:49:55 [CommandAbilities] Speak HUD Pilot
+13:49:55 [CommandAbilities] Bark int-success-15 speaker=Target text=Your words make sense, there is no longer gain in fighting you.
+13:49:55 [CommandAbilities] Assign extra=3 commander abilities=3
+13:49:55 [CommandAbilities] Assign extra=3 commander abilities=3
+13:49:55 [CommandAbilities] Assign extra=3 commander abilities=3
+14:08:17 [CommandAbilities] Loaded bark catalog v2
+14:08:17 [CommandAbilities] PanicSystem bridge Available=True
+14:08:17 [CommandAbilities] Ability.Activate(Team, ICombatant)
+14:08:17 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+14:08:17 [CommandAbilities] Ability.Activate(Team, Vector3)
+14:08:17 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+14:08:17 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+14:08:17 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+14:08:17 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+14:08:17 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+14:08:17 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+14:08:17 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+14:08:17 [CommandAbilities] Patched Team.AddUnit
+14:08:17 [CommandAbilities] Patched Pilot.InitAbilities
+14:08:17 [CommandAbilities] Patched TurnDirector.BeginNewRound
+14:08:17 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+14:08:17 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+14:08:17 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+14:08:17 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+14:08:17 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+14:08:17 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+14:08:17 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+14:08:17 [CommandAbilities] Patched CombatHUD.OnActorSelected
+14:08:17 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+14:08:17 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+14:08:17 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+14:08:17 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+14:08:17 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+14:08:17 [CommandAbilities] Init complete. PanicSystem=True
+14:20:34 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+14:20:34 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+14:20:34 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+14:26:29 [CommandAbilities] AbilityButtons length=102
+14:26:29 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+14:26:29 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+14:26:29 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+14:26:29 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+14:26:29 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+14:26:29 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+14:26:29 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+14:26:29 [CommandAbilities] Visible extra slots=3
+14:26:29 [CommandAbilities] Assign extra=3 commander abilities=3
+14:26:29 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+14:26:29 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+14:26:29 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+14:26:29 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+14:26:29 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+14:26:29 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+14:26:29 [CommandAbilities] Assign extra=3 commander abilities=3
+14:26:29 [CommandAbilities] Assign extra=3 commander abilities=3
+14:26:50 [CommandAbilities] Assign extra=3 commander abilities=3
+14:26:50 [CommandAbilities] Assign extra=3 commander abilities=3
+14:26:50 [CommandAbilities] Assign extra=3 commander abilities=3
+14:27:02 [CommandAbilities] Assign extra=3 commander abilities=3
+14:29:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:29:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:29:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:29:57 [CommandAbilities] Assign extra=3 commander abilities=3
+14:30:01 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:47 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:47 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:47 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:49 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+14:44:49 [CommandAbilities] Pending Priority Target from Bugbear
+14:44:54 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=14 OBEY
+14:44:54 [CommandAbilities] Speak front failed: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+14:44:54 [CommandAbilities] Bark pt-success-11 speaker=Ally text=Your tactical acumen is something to behold. We shall measure up to it.
+14:44:54 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=55 REFUSE
+14:44:54 [CommandAbilities] Speak front failed: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+14:44:54 [CommandAbilities] Bark pt-fail-06 speaker=Ally text=If I'm going to die, it won't be doing something dumb.
+14:44:54 [CommandAbilities] Priority Target confirmed on Defender expireRound=4
+14:44:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:44:54 [CommandAbilities] Assign extra=3 commander abilities=3
+14:59:53 [CommandAbilities] Loaded bark catalog v2
+14:59:53 [CommandAbilities] PanicSystem bridge Available=True
+14:59:53 [CommandAbilities] Ability.Activate(Team, ICombatant)
+14:59:53 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+14:59:53 [CommandAbilities] Ability.Activate(Team, Vector3)
+14:59:53 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+14:59:53 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+14:59:53 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+14:59:53 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+14:59:53 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+14:59:53 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+14:59:53 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+14:59:53 [CommandAbilities] Patched Team.AddUnit
+14:59:53 [CommandAbilities] Patched Pilot.InitAbilities
+14:59:53 [CommandAbilities] Patched TurnDirector.BeginNewRound
+14:59:53 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+14:59:53 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+14:59:53 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+14:59:53 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+14:59:53 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+14:59:53 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+14:59:53 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+14:59:53 [CommandAbilities] Patched CombatHUD.OnActorSelected
+14:59:53 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+14:59:53 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+14:59:53 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+14:59:53 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+14:59:53 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+14:59:53 [CommandAbilities] Init complete. PanicSystem=True
+15:07:50 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+15:07:50 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+15:07:50 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+15:08:35 [CommandAbilities] AbilityButtons length=102
+15:08:35 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+15:08:35 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+15:08:35 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+15:08:35 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+15:08:35 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+15:08:35 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+15:08:35 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+15:08:35 [CommandAbilities] Visible extra slots=3
+15:08:35 [CommandAbilities] Assign extra=3 commander abilities=3
+15:08:35 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+15:08:35 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+15:08:35 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+15:08:35 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+15:08:35 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+15:08:35 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+15:08:35 [CommandAbilities] Assign extra=3 commander abilities=3
+15:08:35 [CommandAbilities] Assign extra=3 commander abilities=3
+15:08:35 [CommandAbilities] Assign extra=3 commander abilities=3
+15:13:12 [CommandAbilities] Assign extra=3 commander abilities=3
+15:13:12 [CommandAbilities] Assign extra=3 commander abilities=3
+15:13:12 [CommandAbilities] Assign extra=3 commander abilities=3
+15:13:14 [CommandAbilities] Assign extra=3 commander abilities=3
+15:13:17 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:44 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:44 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:44 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:48 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+15:19:48 [CommandAbilities] Pending Priority Target from Bugbear
+15:19:55 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=81 REFUSE
+15:19:56 [CommandAbilities] Speak center Ian McKinnon
+15:19:56 [CommandAbilities] Bark pt-fail-04 speaker=Ally text=Have you even read A Primer to Tactics and Strategy?
+15:19:56 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=34 OBEY
+15:19:56 [CommandAbilities] Bark pt-success-01 speaker=Ally text=Target identified, Bugbear, Henrik Dekker is moving to engage.
+15:19:56 [CommandAbilities] Priority Target confirmed on Tactician expireRound=4
+15:19:56 [CommandAbilities] Speak center Henrik Dekker
+15:19:56 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:56 [CommandAbilities] Assign extra=3 commander abilities=3
+15:19:56 [CommandAbilities] Assign extra=3 commander abilities=3
+15:20:03 [CommandAbilities] Assign extra=3 commander abilities=3
+15:20:04 [CommandAbilities] Assign extra=3 commander abilities=3
+15:20:05 [CommandAbilities] Assign extra=3 commander abilities=3
+15:32:02 [CommandAbilities] Loaded bark catalog v2
+15:32:02 [CommandAbilities] PanicSystem bridge Available=True
+15:32:02 [CommandAbilities] Ability.Activate(Team, ICombatant)
+15:32:02 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+15:32:02 [CommandAbilities] Ability.Activate(Team, Vector3)
+15:32:02 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+15:32:02 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+15:32:02 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+15:32:02 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+15:32:02 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+15:32:02 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+15:32:02 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+15:32:02 [CommandAbilities] Patched Team.AddUnit
+15:32:02 [CommandAbilities] Patched Pilot.InitAbilities
+15:32:02 [CommandAbilities] Patched TurnDirector.BeginNewRound
+15:32:02 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+15:32:02 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+15:32:02 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+15:32:02 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+15:32:02 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+15:32:02 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+15:32:02 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+15:32:02 [CommandAbilities] Patched CombatHUD.OnActorSelected
+15:32:02 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+15:32:02 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+15:32:02 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+15:32:02 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+15:32:02 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+15:32:02 [CommandAbilities] Init complete. PanicSystem=True
+15:45:58 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+15:45:58 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+15:45:58 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+15:55:38 [CommandAbilities] AbilityButtons length=102
+15:55:38 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+15:55:38 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+15:55:38 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+15:55:38 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+15:55:38 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+15:55:38 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+15:55:38 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+15:55:38 [CommandAbilities] Visible extra slots=3
+15:55:38 [CommandAbilities] Assign extra=3 commander abilities=3
+15:55:38 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+15:55:38 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+15:55:38 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+15:55:38 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+15:55:38 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+15:55:38 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+15:55:38 [CommandAbilities] Assign extra=3 commander abilities=3
+15:55:38 [CommandAbilities] Assign extra=3 commander abilities=3
+15:55:39 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:23 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:23 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:23 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:26 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:28 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:28 [CommandAbilities] Assign extra=3 commander abilities=3
+15:57:31 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:30 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:30 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:30 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:35 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+16:00:35 [CommandAbilities] Pending Priority Target from Bugbear
+16:00:40 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=21 OBEY
+16:00:40 [CommandAbilities] Speak center Ian McKinnon
+16:00:40 [CommandAbilities] Bark pt-success-09 speaker=Ally text=CHARGE!!!
+16:00:40 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=34 OBEY
+16:00:40 [CommandAbilities] Bark pt-success-19 speaker=Ally text=Time to bring the thunder at your call.
+16:00:40 [CommandAbilities] Priority Target confirmed on Defender expireRound=4
+16:00:40 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:40 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:40 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:44 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:46 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:46 [CommandAbilities] Assign extra=3 commander abilities=3
+16:00:48 [CommandAbilities] Speak center Henrik Dekker
+16:00:49 [CommandAbilities] AI focus Ian McKinnon -> Defender
+16:00:53 [CommandAbilities] AI focus Ian McKinnon -> Defender
+16:01:04 [CommandAbilities] AI focus George Lytton -> Defender
+16:01:05 [CommandAbilities] AI focus George Lytton -> Defender
+16:01:16 [CommandAbilities] AI focus Lt. Karl Ryder -> Defender
+16:01:18 [CommandAbilities] AI focus Lt. Karl Ryder -> Defender
+16:01:25 [CommandAbilities] AI focus Ernst Lang -> Defender
+16:01:28 [CommandAbilities] AI focus Ernst Lang -> Defender
+16:01:37 [CommandAbilities] AI focus Henrik Dekker -> Defender
+16:01:42 [CommandAbilities] AI focus Henrik Dekker -> Defender
+16:17:39 [CommandAbilities] Loaded bark catalog v2
+16:17:39 [CommandAbilities] PanicSystem bridge Available=True
+16:17:39 [CommandAbilities] Ability.Activate(Team, ICombatant)
+16:17:39 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+16:17:39 [CommandAbilities] Ability.Activate(Team, Vector3)
+16:17:39 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+16:17:39 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+16:17:39 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+16:17:39 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+16:17:39 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+16:17:39 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+16:17:39 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+16:17:39 [CommandAbilities] Patched Team.AddUnit
+16:17:39 [CommandAbilities] Patched Pilot.InitAbilities
+16:17:39 [CommandAbilities] Patched TurnDirector.BeginNewRound
+16:17:39 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+16:17:39 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+16:17:39 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+16:17:39 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+16:17:39 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+16:17:39 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+16:17:39 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+16:17:39 [CommandAbilities] Patched CombatHUD.OnActorSelected
+16:17:39 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+16:17:39 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+16:17:39 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+16:17:39 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+16:17:39 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+16:17:39 [CommandAbilities] Init complete. PanicSystem=True
+16:27:43 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+16:27:43 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+16:27:43 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+16:28:32 [CommandAbilities] AbilityButtons length=102
+16:28:32 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+16:28:32 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+16:28:32 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+16:28:32 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+16:28:32 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+16:28:32 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+16:28:32 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+16:28:32 [CommandAbilities] Visible extra slots=3
+16:28:32 [CommandAbilities] Assign extra=3 commander abilities=3
+16:28:32 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+16:28:32 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+16:28:32 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+16:28:32 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+16:28:32 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+16:28:32 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+16:28:32 [CommandAbilities] Assign extra=3 commander abilities=3
+16:28:32 [CommandAbilities] Assign extra=3 commander abilities=3
+16:28:33 [CommandAbilities] Assign extra=3 commander abilities=3
+16:29:58 [CommandAbilities] Assign extra=3 commander abilities=3
+16:29:58 [CommandAbilities] Assign extra=3 commander abilities=3
+16:29:58 [CommandAbilities] Assign extra=3 commander abilities=3
+16:30:06 [CommandAbilities] Assign extra=3 commander abilities=3
+16:30:09 [CommandAbilities] Assign extra=3 commander abilities=3
+16:31:27 [CommandAbilities] Assign extra=3 commander abilities=3
+16:31:27 [CommandAbilities] Assign extra=3 commander abilities=3
+16:31:28 [CommandAbilities] Assign extra=3 commander abilities=3
+16:31:42 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+16:31:42 [CommandAbilities] Pending Priority Target from Bugbear
+16:31:53 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+16:31:53 [CommandAbilities] Pending Priority Target from Bugbear
+16:31:56 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+16:31:56 [CommandAbilities] Pending Priority Target from Bugbear
+16:32:04 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=75 REFUSE
+16:32:04 [CommandAbilities] Speak center Ian McKinnon
+16:32:04 [CommandAbilities] Bark pt-fail-22 speaker=Ally text=We don't do that sort of thing where I come from.
+16:32:04 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=23 OBEY
+16:32:04 [CommandAbilities] Bark pt-success-16 speaker=Ally text=By your command.
+16:32:04 [CommandAbilities] Priority Target confirmed on Tactician expireRound=4
+16:32:04 [CommandAbilities] Assign extra=3 commander abilities=3
+16:32:04 [CommandAbilities] Assign extra=3 commander abilities=3
+16:32:04 [CommandAbilities] Assign extra=3 commander abilities=3
+16:32:12 [CommandAbilities] Speak center Henrik Dekker
+17:10:06 [CommandAbilities] Loaded bark catalog v2
+17:10:06 [CommandAbilities] PanicSystem bridge Available=True
+17:10:06 [CommandAbilities] Ability.Activate(Team, ICombatant)
+17:10:06 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+17:10:06 [CommandAbilities] Ability.Activate(Team, Vector3)
+17:10:06 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+17:10:06 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+17:10:06 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+17:10:06 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+17:10:06 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+17:10:06 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+17:10:06 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+17:10:06 [CommandAbilities] Patched Team.AddUnit
+17:10:06 [CommandAbilities] Patched Pilot.InitAbilities
+17:10:06 [CommandAbilities] Patched TurnDirector.BeginNewRound
+17:10:06 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+17:10:06 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+17:10:06 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+17:10:06 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+17:10:06 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+17:10:06 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+17:10:06 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+17:10:06 [CommandAbilities] Patched CombatHUD.OnActorSelected
+17:10:06 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+17:10:06 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+17:10:06 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+17:10:06 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+17:10:06 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+17:10:06 [CommandAbilities] Patched CombatHUD.Update for barks
+17:10:06 [CommandAbilities] Init complete. PanicSystem=True
+17:21:43 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+17:21:43 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+17:21:43 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+17:23:32 [CommandAbilities] AbilityButtons length=102
+17:23:32 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+17:23:32 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+17:23:32 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+17:23:32 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+17:23:32 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+17:23:32 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+17:23:32 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+17:23:32 [CommandAbilities] Visible extra slots=3
+17:23:32 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:32 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+17:23:32 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+17:23:32 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+17:23:32 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+17:23:32 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+17:23:32 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+17:23:32 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:32 [CommandAbilities] Assign extra=3 commander abilities=3
+17:23:33 [CommandAbilities] Assign extra=3 commander abilities=3
+17:24:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:24:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:24:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:00 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:04 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:25:51 [CommandAbilities] Assign extra=3 commander abilities=3
+17:26:01 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+17:26:01 [CommandAbilities] Pending Priority Target from Bugbear
+17:26:08 [CommandAbilities] Pending cancelled by selecting Sturm
+17:27:43 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:43 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:43 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:52 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:52 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:52 [CommandAbilities] Assign extra=3 commander abilities=3
+17:27:59 [CommandAbilities] Assign extra=3 commander abilities=3
+17:28:07 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:13 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:13 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:13 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:21 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:21 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:21 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:28 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+17:35:37 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:37 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:37 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:53 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:53 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:54 [CommandAbilities] Assign extra=3 commander abilities=3
+17:35:58 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:47 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:53 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+17:39:53 [CommandAbilities] Pending Priority Target from Bugbear
+17:39:56 [CommandAbilities] Lance Ian McKinnon tactics 8 vs 7 chance=58 roll=9 OBEY
+17:39:56 [CommandAbilities] Speak dialog Ian McKinnon
+17:39:56 [CommandAbilities] Bark pt-success-19 speaker=Ally text=Time to bring the thunder at your call.
+17:39:56 [CommandAbilities] Lance Henrik Dekker tactics 8 vs 8 chance=50 roll=45 OBEY
+17:39:56 [CommandAbilities] Bark pt-success-14 speaker=Ally text=Let's do this!
+17:39:56 [CommandAbilities] Priority Target confirmed on Defender expireRound=6
+17:39:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:39:56 [CommandAbilities] Assign extra=3 commander abilities=3
+17:40:04 [CommandAbilities] Speak dialog Henrik Dekker
+17:40:13 [CommandAbilities] Assign extra=3 commander abilities=3
+17:40:16 [CommandAbilities] Assign extra=3 commander abilities=3
+17:40:16 [CommandAbilities] Assign extra=3 commander abilities=3
+17:40:23 [CommandAbilities] AI focus Ian McKinnon -> Defender
+17:40:29 [CommandAbilities] AI focus Ian McKinnon -> Defender
+17:41:21 [CommandAbilities] AI focus George Lytton -> Defender
+17:41:26 [CommandAbilities] AI focus George Lytton -> Defender
+20:11:27 [CommandAbilities] Loaded bark catalog v2
+20:11:27 [CommandAbilities] PanicSystem bridge Available=True
+20:11:27 [CommandAbilities] Ability.Activate(Team, ICombatant)
+20:11:27 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+20:11:27 [CommandAbilities] Ability.Activate(Team, Vector3)
+20:11:27 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+20:11:27 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+20:11:27 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+20:11:27 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+20:11:27 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+20:11:27 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+20:11:27 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+20:11:27 [CommandAbilities] Patched Team.AddUnit
+20:11:27 [CommandAbilities] Patched Pilot.InitAbilities
+20:11:27 [CommandAbilities] Patched TurnDirector.BeginNewRound
+20:11:27 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+20:11:27 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+20:11:27 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+20:11:27 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+20:11:27 [CommandAbilities] Patched BehaviorTree.Update
+20:11:27 [CommandAbilities] Patched SortEnemiesByPreferredTargetPriority.Tick
+20:11:27 [CommandAbilities] Patched Pathing.UpdateAIPath
+20:11:27 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+20:11:27 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+20:11:27 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+20:11:27 [CommandAbilities] Patched CombatHUD.OnActorSelected
+20:11:28 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+20:11:28 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+20:11:28 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+20:11:28 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+20:11:28 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+20:11:28 [CommandAbilities] Patched CombatHUD.Update for barks
+20:11:28 [CommandAbilities] Init complete. PanicSystem=True
+20:22:14 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+20:22:14 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+20:22:14 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+20:23:07 [CommandAbilities] AbilityButtons length=102
+20:23:07 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+20:23:07 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+20:23:07 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+20:23:07 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+20:23:07 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+20:23:07 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+20:23:07 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+20:23:07 [CommandAbilities] Visible extra slots=3
+20:23:07 [CommandAbilities] Assign extra=3 commander abilities=3
+20:23:07 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+20:23:07 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+20:23:07 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+20:23:07 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+20:23:07 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+20:23:07 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+20:23:07 [CommandAbilities] Assign extra=3 commander abilities=3
+20:23:07 [CommandAbilities] Assign extra=3 commander abilities=3
+20:23:08 [CommandAbilities] Assign extra=3 commander abilities=3
+20:24:22 [CommandAbilities] Assign extra=3 commander abilities=3
+20:24:22 [CommandAbilities] Assign extra=3 commander abilities=3
+20:24:22 [CommandAbilities] Assign extra=3 commander abilities=3
+20:24:25 [CommandAbilities] Assign extra=3 commander abilities=3
+20:24:29 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:14 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:14 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:14 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:19 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:20 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:20 [CommandAbilities] Assign extra=3 commander abilities=3
+20:30:23 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:35 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:35 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:35 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:38 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+20:32:38 [CommandAbilities] Pending Priority Target from Bugbear
+20:32:49 [CommandAbilities] CastDef name cache 308
+20:32:49 [CommandAbilities] Lance roll/bark Ian McKinnon via castDef
+20:32:49 [CommandAbilities] Lance leader Ian McKinnon tactics 8 vs 7 chance=58 roll=53 OBEY
+20:32:49 [CommandAbilities] Speak dialog Ian McKinnon
+20:32:49 [CommandAbilities] Bark pt-success-15 speaker=Ally text=Into the valley of glory ride my Lance.
+20:32:49 [CommandAbilities] Lance roll/bark Lt. Karl Ryder via castDef
+20:32:49 [CommandAbilities] Lance leader Lt. Karl Ryder tactics 8 vs 5 chance=74 roll=56 OBEY
+20:32:49 [CommandAbilities] Bark pt-success-13 speaker=Ally text=Bugbear, that's an insightful call. We've got it covered.
+20:32:49 [CommandAbilities] Priority Target confirmed on Gunner expireRound=5
+20:32:49 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:49 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:49 [CommandAbilities] Assign extra=3 commander abilities=3
+20:32:57 [CommandAbilities] Speak dialog Lt. Karl Ryder
+20:33:06 [CommandAbilities] Assign extra=3 commander abilities=3
+20:33:07 [CommandAbilities] Assign extra=3 commander abilities=3
+20:33:07 [CommandAbilities] Assign extra=3 commander abilities=3
+20:33:08 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+20:33:11 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+20:33:58 [CommandAbilities] AI focus George Lytton -> Gunner
+20:34:01 [CommandAbilities] AI focus George Lytton -> Gunner
+20:34:23 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+20:34:25 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+20:34:48 [CommandAbilities] AI focus Ernst Lang -> Gunner
+20:34:51 [CommandAbilities] AI focus Ernst Lang -> Gunner
+20:36:37 [CommandAbilities] AI focus Iskoru Chipende -> Gunner
+20:37:09 [CommandAbilities] AI focus Paul Danton -> Gunner
+20:37:18 [CommandAbilities] AI focus Austin Vorster -> Gunner
+20:37:20 [CommandAbilities] AI focus Austin Vorster -> Gunner
+20:37:27 [CommandAbilities] AI focus Henrik Dekker -> Gunner
+20:37:27 [CommandAbilities] AI focus Henrik Dekker -> Gunner
+20:37:27 [CommandAbilities] AI focus Henrik Dekker -> Gunner
+20:37:36 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:36 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:36 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:39 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+20:37:39 [CommandAbilities] Pending Intimidation from Bugbear
+20:37:43 [CommandAbilities] Intimidation target=Gunner panic=STRESSED guts=8vs3 dmg=10 isolated=False resolve=100 clan=False rating=- chance=55 roll=35 EJECT
+20:37:43 [CommandAbilities] Speak dialog Bugbear
+20:37:43 [CommandAbilities] Bark int-success-03 speaker=Commander text=I'll do whatever you ask, just don't kill me.
+20:37:43 [CommandAbilities] Bark int-success-16 speaker=Target text=As you say, fighting further has no meaning.
+20:37:43 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:43 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:43 [CommandAbilities] Assign extra=3 commander abilities=3
+20:37:51 [CommandAbilities] Speak dialog Gunner
+06:35:22 [CommandAbilities] Loaded bark catalog v2
+06:35:23 [CommandAbilities] PanicSystem bridge Available=True
+06:35:23 [CommandAbilities] Ability.Activate(Team, ICombatant)
+06:35:23 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+06:35:23 [CommandAbilities] Ability.Activate(Team, Vector3)
+06:35:23 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+06:35:23 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+06:35:23 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+06:35:23 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+06:35:23 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+06:35:23 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+06:35:23 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+06:35:23 [CommandAbilities] Patched Team.AddUnit
+06:35:23 [CommandAbilities] Patched Pilot.InitAbilities
+06:35:23 [CommandAbilities] Patched TurnDirector.BeginNewRound
+06:35:23 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+06:35:23 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+06:35:23 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+06:35:23 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+06:35:23 [CommandAbilities] Patched BehaviorTree.Update
+06:35:23 [CommandAbilities] Patched SortEnemiesByPreferredTargetPriority.Tick
+06:35:23 [CommandAbilities] Patched Pathing.UpdateAIPath
+06:35:23 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+06:35:23 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+06:35:23 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+06:35:23 [CommandAbilities] Patched CombatHUD.OnActorSelected
+06:35:23 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+06:35:23 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+06:35:23 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+06:35:23 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+06:35:23 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+06:35:23 [CommandAbilities] Patched CombatHUD.Update for barks
+06:35:23 [CommandAbilities] Init complete. PanicSystem=True
+06:54:28 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+06:54:28 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+06:54:28 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+06:57:44 [CommandAbilities] AbilityButtons length=102
+06:57:44 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+06:57:44 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+06:57:44 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+06:57:44 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+06:57:44 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+06:57:44 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+06:57:44 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+06:57:44 [CommandAbilities] Visible extra slots=3
+06:57:44 [CommandAbilities] Assign extra=3 commander abilities=3
+06:57:44 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+06:57:44 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+06:57:44 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+06:57:44 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+06:57:44 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+06:57:44 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+06:57:44 [CommandAbilities] Assign extra=3 commander abilities=3
+06:57:44 [CommandAbilities] Assign extra=3 commander abilities=3
+06:57:45 [CommandAbilities] Assign extra=3 commander abilities=3
+06:59:24 [CommandAbilities] Assign extra=3 commander abilities=3
+06:59:24 [CommandAbilities] Assign extra=3 commander abilities=3
+06:59:24 [CommandAbilities] Assign extra=3 commander abilities=3
+06:59:28 [CommandAbilities] Assign extra=3 commander abilities=3
+06:59:32 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:02 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:02 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:02 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:06 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:07 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:07 [CommandAbilities] Assign extra=3 commander abilities=3
+07:04:10 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:18 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:18 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:18 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:36 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+07:08:36 [CommandAbilities] Pending Priority Target from Bugbear
+07:08:50 [CommandAbilities] CastDef name cache 308
+07:08:50 [CommandAbilities] Lance roll/bark Ian McKinnon via castDef
+07:08:50 [CommandAbilities] Lance leader Ian McKinnon tactics 8 vs 7 chance=58 roll=25 OBEY
+07:08:50 [CommandAbilities] Bark lift 520 box=300 stretched=False
+07:08:50 [CommandAbilities] Bark castDef=castDef_Davion_Ian_McKinnon source=own actor=Ian McKinnon
+07:08:50 [CommandAbilities] Speak dialog Ian McKinnon
+07:08:50 [CommandAbilities] Bark pt-success-22 speaker=Ally text=For the greater good!
+07:08:50 [CommandAbilities] Lance roll/bark Lt. Karl Ryder via castDef
+07:08:50 [CommandAbilities] Lance leader Lt. Karl Ryder tactics 8 vs 5 chance=74 roll=43 OBEY
+07:08:50 [CommandAbilities] Bark pt-success-23 speaker=Ally text=As you say, Bugbear, we'll make it so.
+07:08:50 [CommandAbilities] Cooldown set failed
+07:08:50 [CommandAbilities] Cooldown set failed
+07:08:50 [CommandAbilities] Cooldown set failed
+07:08:50 [CommandAbilities] Shared command cooldown=4 after AbilityDef_CA_PriorityTarget
+07:08:50 [CommandAbilities] Priority Target confirmed on Gunner expireRound=5
+07:08:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:08:58 [CommandAbilities] Bark lift 520 box=300 stretched=False
+07:08:58 [CommandAbilities] Bark castDef=castDef_Davion_Karl_Ryder source=own actor=Lt. Karl Ryder
+07:08:58 [CommandAbilities] Speak dialog Lt. Karl Ryder
+07:09:13 [CommandAbilities] Assign extra=3 commander abilities=3
+07:09:14 [CommandAbilities] Assign extra=3 commander abilities=3
+07:09:14 [CommandAbilities] Assign extra=3 commander abilities=3
+07:09:16 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+07:09:21 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+07:10:18 [CommandAbilities] AI focus George Lytton -> Gunner
+07:10:20 [CommandAbilities] AI focus George Lytton -> Gunner
+07:11:38 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+07:11:39 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+07:12:01 [CommandAbilities] AI focus Ernst Lang -> Gunner
+07:12:05 [CommandAbilities] AI focus Ernst Lang -> Gunner
+07:12:54 [CommandAbilities] AI focus Iskoru Chipende -> Gunner
+07:13:17 [CommandAbilities] AI focus Henrik Dekker -> Gunner
+07:13:19 [CommandAbilities] AI focus Henrik Dekker -> Gunner
+07:13:46 [CommandAbilities] AI focus Paul Danton -> Gunner
+07:13:48 [CommandAbilities] AI focus Paul Danton -> Gunner
+07:14:17 [CommandAbilities] AI focus Austin Vorster -> Gunner
+07:14:17 [CommandAbilities] AI focus Austin Vorster -> Gunner
+07:15:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:15:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:15:50 [CommandAbilities] Assign extra=3 commander abilities=3
+07:15:59 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityMove
+07:15:59 [CommandAbilities] Pending Priority Move from Bugbear
+07:16:04 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_Intimidation
+07:16:04 [CommandAbilities] Pending Intimidation from Bugbear
+07:16:09 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityMove
+07:16:09 [CommandAbilities] Pending Priority Move from Bugbear
+07:16:17 [CommandAbilities] Pending cancelled by selecting another unit
+07:16:31 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+07:16:33 [CommandAbilities] AI focus Ian McKinnon -> Gunner
+07:17:16 [CommandAbilities] AI focus George Lytton -> Gunner
+07:17:18 [CommandAbilities] AI focus George Lytton -> Gunner
+07:17:33 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:33 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:33 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:38 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:39 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:39 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:41 [CommandAbilities] Assign extra=3 commander abilities=3
+07:17:50 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+07:17:51 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+07:17:51 [CommandAbilities] AI focus Lt. Karl Ryder -> Gunner
+07:28:44 [CommandAbilities] Loaded bark catalog v2
+07:28:44 [CommandAbilities] PanicSystem bridge Available=True
+07:28:44 [CommandAbilities] Ability.Activate(Team, ICombatant)
+07:28:44 [CommandAbilities] Patched Ability.Activate(Team, ICombatant)
+07:28:44 [CommandAbilities] Ability.Activate(Team, Vector3)
+07:28:44 [CommandAbilities] Patched Ability.Activate(Team, Vector3)
+07:28:44 [CommandAbilities] Ability.Activate(Team, Vector3, Vector3)
+07:28:44 [CommandAbilities] Ability.Activate(AbstractActor, Vector3)
+07:28:44 [CommandAbilities] Patched Ability.Activate(AbstractActor, Vector3)
+07:28:44 [CommandAbilities] Ability.Activate(AbstractActor, Vector3, Vector3)
+07:28:44 [CommandAbilities] Ability.Activate(AbstractActor, ICombatant)
+07:28:44 [CommandAbilities] Patched Ability.Activate(AbstractActor, ICombatant)
+07:28:44 [CommandAbilities] Patched Team.AddUnit
+07:28:44 [CommandAbilities] Patched Pilot.InitAbilities
+07:28:44 [CommandAbilities] Patched TurnDirector.BeginNewRound
+07:28:44 [CommandAbilities] Skip missing TurnDirector.IncrementRoundCounter
+07:28:44 [CommandAbilities] Skip missing CombatGameState.OnCombatComplete
+07:28:44 [CommandAbilities] Skip missing CombatGameState.Rehydrate
+07:28:44 [CommandAbilities] Patched AbstractActor.OnActivationBegin
+07:28:44 [CommandAbilities] Patched BehaviorTree.Update
+07:28:44 [CommandAbilities] Patched SortEnemiesByPreferredTargetPriority.Tick
+07:28:44 [CommandAbilities] Patched Pathing.UpdateAIPath
+07:28:44 [CommandAbilities] Patched AttackEvaluator.MakeAttackOrder
+07:28:44 [CommandAbilities] Patched MultiAttack.MakeMultiAttackOrder
+07:28:44 [CommandAbilities] Patched CombatHUDMechwarriorTray.Init
+07:28:44 [CommandAbilities] Patched CombatHUDMechwarriorTray.InitAbilityButtons
+07:28:44 [CommandAbilities] Patched CombatHUDMechwarriorTray.ResetAbilityButtons
+07:28:44 [CommandAbilities] Patched CombatHUD.OnActorSelected
+07:28:44 [CommandAbilities] Patched CombatHUDActionButton.ConfirmAbility
+07:28:45 [CommandAbilities] Patched CombatSelectionHandler.TrySelectActor
+07:28:45 [CommandAbilities] Patched CombatSelectionHandler.TrySelectTarget
+07:28:45 [CommandAbilities] Patched CombatSelectionHandler.ProcessLeftClick
+07:28:45 [CommandAbilities] Patched CombatSelectionHandler.ProcessRightClick
+07:28:45 [CommandAbilities] Patched CombatHUD.Update for barks
+07:28:45 [CommandAbilities] Patched SGDialogWidget.Show
+07:28:45 [CommandAbilities] Init complete. PanicSystem=True
+08:05:09 [CommandAbilities] Granted AbilityDef_CA_PriorityTarget to Bugbear
+08:05:09 [CommandAbilities] Granted AbilityDef_CA_PriorityMove to Bugbear
+08:05:09 [CommandAbilities] Granted AbilityDef_CA_Intimidation to Bugbear
+08:06:52 [CommandAbilities] AbilityButtons length=102
+08:06:52 [CommandAbilities]   btn[0] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder5 activeH=True ability=AbilityDefT5A
+08:06:52 [CommandAbilities]   btn[1] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder6 activeH=True ability=AbilityDefG5
+08:06:52 [CommandAbilities]   btn[2] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder1 activeH=False ability=AbilityDefCU_SpawnUnit
+08:06:52 [CommandAbilities]   btn[3] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder2 activeH=False ability=AbilityDefCAC_AttackGround
+08:06:52 [CommandAbilities]   btn[4] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder3 activeH=False ability=AbilityDef_CarefulManeuvers
+08:06:52 [CommandAbilities]   btn[5] name=uixPrfBttn_actionButton-MANAGED parent=actionButton_Holder4 activeH=False ability=AbilityDefT8A
+08:06:52 [CommandAbilities] Cloning visible holder actionButton_Holder5 parent=ActionTray2 active=True
+08:06:52 [CommandAbilities] Visible extra slots=3
+08:06:52 [CommandAbilities] Assign extra=3 commander abilities=3
+08:06:52 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_PriorityTarget now=AbilityDef_CA_PriorityTarget
+08:06:52 [CommandAbilities] Bound AbilityDef_CA_PriorityTarget onto CA_AbilitySlot_0 verify=AbilityDef_CA_PriorityTarget available=True activeH=True
+08:06:52 [CommandAbilities] InitButton CommandTargetSinglePoint AbilityDef_CA_PriorityMove now=AbilityDef_CA_PriorityMove
+08:06:52 [CommandAbilities] Bound AbilityDef_CA_PriorityMove onto CA_AbilitySlot_1 verify=AbilityDef_CA_PriorityMove available=True activeH=True
+08:06:52 [CommandAbilities] InitButton TargetSingleEnemy AbilityDef_CA_Intimidation now=AbilityDef_CA_Intimidation
+08:06:52 [CommandAbilities] Bound AbilityDef_CA_Intimidation onto CA_AbilitySlot_2 verify=AbilityDef_CA_Intimidation available=True activeH=True
+08:06:52 [CommandAbilities] Assign extra=3 commander abilities=3
+08:06:52 [CommandAbilities] Assign extra=3 commander abilities=3
+08:06:53 [CommandAbilities] Assign extra=3 commander abilities=3
+08:10:08 [CommandAbilities] Assign extra=3 commander abilities=3
+08:10:08 [CommandAbilities] Assign extra=3 commander abilities=3
+08:10:08 [CommandAbilities] Assign extra=3 commander abilities=3
+08:10:14 [CommandAbilities] Assign extra=3 commander abilities=3
+08:10:17 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:13 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:13 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:13 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:16 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:17 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:17 [CommandAbilities] Assign extra=3 commander abilities=3
+08:13:19 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:32 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:32 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:32 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:37 [CommandAbilities] Clicked extra slot uixPrfBttn_actionButton-MANAGED ability=AbilityDef_CA_PriorityTarget
+08:16:37 [CommandAbilities] Pending Priority Target from Bugbear
+08:16:53 [CommandAbilities] CastDef name cache 308
+08:16:53 [CommandAbilities] Lance roll/bark Ian McKinnon via castDef
+08:16:53 [CommandAbilities] Lance leader Ian McKinnon tactics 8 vs 7 chance=58 roll=74 REFUSE
+08:16:53 [CommandAbilities] Bark background opaque
+08:16:53 [CommandAbilities] Bark lift 520 box=300 stretched=False
+08:16:53 [CommandAbilities] Bark castDef=castDef_Davion_Ian_McKinnon source=own actor=Ian McKinnon
+08:16:53 [CommandAbilities] Speak dialog Ian McKinnon
+08:16:53 [CommandAbilities] Bark pt-fail-04 speaker=Ally text=Have you even read A Primer to Tactics and Strategy?
+08:16:53 [CommandAbilities] Lance roll/bark Lt. Karl Ryder via castDef
+08:16:53 [CommandAbilities] Lance leader Lt. Karl Ryder tactics 8 vs 5 chance=74 roll=50 OBEY
+08:16:53 [CommandAbilities] Bark pt-success-19 speaker=Ally text=Time to bring the thunder at your call.
+08:16:53 [CommandAbilities] Cooldown set failed
+08:16:53 [CommandAbilities] Cooldown set failed
+08:16:53 [CommandAbilities] Cooldown set failed
+08:16:53 [CommandAbilities] Shared command cooldown=4 after AbilityDef_CA_PriorityTarget
+08:16:53 [CommandAbilities] Priority Target confirmed on Pilot expireRound=5
+08:16:53 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:53 [CommandAbilities] Assign extra=3 commander abilities=3
+08:16:53 [CommandAbilities] Assign extra=3 commander abilities=3
+08:17:01 [CommandAbilities] Bark lift 520 box=300 stretched=False
+08:17:01 [CommandAbilities] Bark castDef=castDef_Davion_Karl_Ryder source=own actor=Lt. Karl Ryder
+08:17:01 [CommandAbilities] Speak dialog Lt. Karl Ryder
+08:17:13 [CommandAbilities] Assign extra=3 commander abilities=3
+08:17:14 [CommandAbilities] Assign extra=3 commander abilities=3
+08:17:14 [CommandAbilities] Assign extra=3 commander abilities=3
+08:19:45 [CommandAbilities] AI focus Lt. Karl Ryder -> Pilot
+08:19:49 [CommandAbilities] AI block multi-target Lt. Karl Ryder
+08:19:49 [CommandAbilities] AI focus Lt. Karl Ryder -> Pilot
+08:19:53 [CommandAbilities] AI focus Ernst Lang -> Pilot
+08:19:57 [CommandAbilities] AI block multi-target Ernst Lang
+08:19:58 [CommandAbilities] AI block multi-target Ernst Lang
+08:19:58 [CommandAbilities] AI attack lock Ernst Lang Pilot -> Pilot
+08:19:58 [CommandAbilities] AI focus Ernst Lang -> Pilot
+08:20:46 [CommandAbilities] AI focus Iskoru Chipende -> Pilot
+08:20:48 [CommandAbilities] AI block multi-target Iskoru Chipende
+08:20:50 [CommandAbilities] AI block multi-target Iskoru Chipende
+08:20:50 [CommandAbilities] AI attack lock Iskoru Chipende Pilot -> Pilot
+08:20:50 [CommandAbilities] AI focus Iskoru Chipende -> Pilot
+08:20:56 [CommandAbilities] AI focus Henrik Dekker -> Pilot
+08:20:59 [CommandAbilities] AI block multi-target Henrik Dekker
+08:21:00 [CommandAbilities] AI block multi-target Henrik Dekker
+08:21:00 [CommandAbilities] AI attack lock Henrik Dekker Pilot -> Pilot
+08:21:00 [CommandAbilities] AI focus Henrik Dekker -> Pilot
+08:23:18 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:18 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:18 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:24 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:25 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:25 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:53 [CommandAbilities] Assign extra=3 commander abilities=3
+08:23:57 [CommandAbilities] Assign extra=3 commander abilities=3

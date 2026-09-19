@@ -1,0 +1,17 @@
+{
+  "Description": {
+    "Id": "AbilityDef_CA_PriorityMove",
+    "Name": "PRIORITY MOVE",
+    "Details": "ACTION: Designate a point within visual range and line of sight. NPC allied lances test their lance leader's Tactics against yours. On a success they sprint toward that point for the rest of this round and all of the next.\r\n<i>Shares a 4-round cooldown with Priority Target and Intimidation.</i>",
+    "Icon": "ca_priority_move"
+  },
+  "DisplayParams": "ShowInMWTRay",
+  "ActivationTime": "ConsumedByFiring",
+  "Resource": "ConsumesFiring",
+  "ActivationCooldown": 4,
+  "Targeting": "ActorSelf",
+  "IsPrimaryAbility": false,
+  "StringParam1": "PRIORITY MOVE is unavailable.",
+  "EffectData": [],
+  "Priority": 0
+}

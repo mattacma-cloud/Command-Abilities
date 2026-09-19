@@ -1,0 +1,17 @@
+{
+  "Description": {
+    "Id": "AbilityDef_CA_PriorityTarget",
+    "Name": "PRIORITY TARGET",
+    "Details": "ACTION: Designate an enemy within sensor range. NPC allied lances test their lance leader's Tactics against yours; on a success they concentrate fire on that target. The mark lasts for the rest of this round and all of the next. Does not strip evasion.\r\n<i>Shares a 4-round cooldown with Priority Move and Intimidation.</i>",
+    "Icon": "ca_priority_target"
+  },
+  "DisplayParams": "ShowInMWTRay",
+  "ActivationTime": "ConsumedByFiring",
+  "Resource": "ConsumesFiring",
+  "ActivationCooldown": 4,
+  "Targeting": "ActorSelf",
+  "IsPrimaryAbility": false,
+  "StringParam1": "PRIORITY TARGET is unavailable.",
+  "EffectData": [],
+  "Priority": 0
+}

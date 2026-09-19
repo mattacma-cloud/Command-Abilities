@@ -1,0 +1,129 @@
+{
+  "Name": "CommandAbilities",
+  "Enabled": true,
+  "Hidden": false,
+  "Version": "0.2.0",
+  "Description": "Commander Priority Target, Priority Move, and Intimidation.",
+  "Author": "Blacknova",
+  "DLL": "CommandAbilities.dll",
+  "DLLEntryPoint": "CommandAbilities.Main.Init",
+  "DependsOn": [
+    "ModTek",
+    "Abilifier"
+  ],
+  "OptionallyDependsOn": [
+    "PanicSystem",
+    "Better AI",
+    "Mission Control",
+    "CustomVoices",
+    "CustomUnits",
+    "Custom Ammo Categories"
+  ],
+  "Manifest": [
+    {
+      "Type": "AbilityDef",
+      "Path": "abilities"
+    },
+    {
+      "Type": "SVGAsset",
+      "Path": "assets/icons",
+      "ShouldMergeJSON": false
+    }
+  ],
+  "Settings": {
+    "DebugLog": true,
+    "ShowRollNumbers": true,
+    "BarksRelativePath": "barks/barks.json",
+    "BarksEnabled": true,
+    "BarkShuffleBag": true,
+    "CommanderTag": "commander_player",
+    "GrantToAI": false,
+    "PriorityTargetAbilityId": "AbilityDef_CA_PriorityTarget",
+    "PriorityMoveAbilityId": "AbilityDef_CA_PriorityMove",
+    "IntimidationAbilityId": "AbilityDef_CA_Intimidation",
+    "LastOrderWins": false,
+    "SharedPriorityOrderCooldown": true,
+    "SharedPriorityOrderCooldownRounds": 4,
+    "BarkLiftY": 220,
+    "Strings": {
+      "OrdersReceived": "ORDERS RECEIVED",
+      "RefusesTheOrder": "REFUSES THE ORDER",
+      "MovingOut": "MOVING OUT",
+      "IntimidationEjecting": "INTIMIDATION — EJECTING",
+      "IntimidationFails": "INTIMIDATION FAILS",
+      "IntimidationUnmoved": "UNMOVED",
+      "MustRemainStationary": "MUST REMAIN STATIONARY",
+      "MustBeRattled": "TARGET IS NOT RATTLED",
+      "FailResolveFloatie": "+{0} RESOLVE",
+      "SelectRattledEnemy": "SELECT A RATTLED ENEMY",
+      "SelectEnemy": "SELECT AN ENEMY",
+      "SelectPoint": "SELECT A POINT",
+      "NeedResolve": "NOT ENOUGH RESOLVE"
+    },
+    "PriorityTarget": {
+      "CooldownRounds": 4,
+      "ResolveCost": 0,
+      "DurationRounds": 2,
+      "ExpireOnCommanderActivation": false,
+      "AccuracyModifier": 0.0,
+      "StripEvasion": false,
+      "BaseChance": 50,
+      "TacticsWeight": 8,
+      "MinChance": 20,
+      "MaxChance": 90,
+      "RerollRefusersOnRemark": true
+    },
+    "PriorityMove": {
+      "CooldownRounds": 4,
+      "ResolveCost": 0,
+      "DurationRounds": 2,
+      "ExpireOnCommanderActivation": false,
+      "UseSprint": true,
+      "RequireVisualLOS": true,
+      "ArrivalRadiusMeters": 30.0,
+      "BaseChance": 50,
+      "TacticsWeight": 8,
+      "MinChance": 20,
+      "MaxChance": 90
+    },
+    "Intimidation": {
+      "CooldownRounds": 4,
+      "NumberOfUses": 1,
+      "ResolveCost": 20,
+      "RangeMeters": 200.0,
+      "RequireLOS": true,
+      "RequireStationary": true,
+      "RequireRattledMorale": true,
+      "StandardMoraleState": "CONFIDENT",
+      "ApplyGuardedOnUse": true,
+      "AllowPlayerTargets": false,
+      "BaseChance": 15,
+      "GutsWeight": 5,
+      "PanicBonusConfident": 0,
+      "PanicBonusUnsettled": 8,
+      "PanicBonusStressed": 16,
+      "PanicBonusPanicked": 28,
+      "DamageBonusBelow50": 10,
+      "DamageBonusBelow25": 10,
+      "IsolatedBonus": 10,
+      "ResolveDivisor": 10,
+      "MinChance": 5,
+      "MaxChance": 55,
+      "ClanChancePenalty": -40,
+      "FormationQualityModifiers": {
+        "Exceptional": -20,
+        "Outstanding": -20,
+        "Very Good": -10,
+        "Average": 0,
+        "Poor": 10,
+        "Awful": 20
+      },
+      "FailResolveGain": 15,
+      "ImmunePilotTags": [
+        "pilot_npc_isHero",
+        "commander_player"
+      ],
+      "ImmuneUnitTags": []
+    }
+  }
+}

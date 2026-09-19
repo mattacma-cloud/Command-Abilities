@@ -1,0 +1,502 @@
+{
+    "version":  2,
+    "notes":  "FILL ONLY the text fields. Do not change id unless you must. speaker: Commander | Ally | Target. Tokens: {commander} {ally} {target} {lance}. Priority Move reuses priorityTarget lists. Empty text is skipped.",
+    "howToFill":  [
+                      "priorityTarget.success — 01-08 Commander, 09-24 Ally. Used for Priority Target AND Priority Move when a lance obeys.",
+                      "priorityTarget.fail — 01-08 Commander, 09-24 Ally. Used for Target AND Move when a lance refuses.",
+                      "intimidation.success — 01-12 Commander, 13-24 Target. Pilot ejects.",
+                      "intimidation.fail — 01-12 Commander, 13-24 Target. Rolled fail OR immune hero (UNMOVED). Both: enemy team +15 Resolve. Same list."
+                  ],
+    "priorityTarget":  {
+                           "success":  [
+                                           {
+                                               "id":  "pt-success-01",
+                                               "speaker":  "Ally",
+                                               "text":  "Target identified, {commander}, {lance} is moving to engage."
+                                           },
+                                           {
+                                               "id":  "pt-success-02",
+                                               "speaker":  "Ally",
+                                               "text":  "Good call, {commander}, we're on it."
+                                           },
+                                           {
+                                               "id":  "pt-success-03",
+                                               "speaker":  "Ally",
+                                               "text":  "I see it too, we'll execute your instructions."
+                                           },
+                                           {
+                                               "id":  "pt-success-04",
+                                               "speaker":  "Ally",
+                                               "text":  "I think I see what you're after {commander}, my {lance} will see if you are right."
+                                           },
+                                           {
+                                               "id":  "pt-success-05",
+                                               "speaker":  "Ally",
+                                               "text":  "I do like these little side quests you give us."
+                                           },
+                                           {
+                                               "id":  "pt-success-06",
+                                               "speaker":  "Ally",
+                                               "text":  "I'm not convinced {commander}, but let's roll the dice."
+                                           },
+                                           {
+                                               "id":  "pt-success-07",
+                                               "speaker":  "Ally",
+                                               "text":  "We see it, {commander}, {lance} is all over it."
+                                           },
+                                           {
+                                               "id":  "pt-success-08",
+                                               "speaker":  "Ally",
+                                               "text":  "Good call, I agree, let's get this sorted."
+                                           },
+                                           {
+                                               "id":  "pt-success-09",
+                                               "speaker":  "Ally",
+                                               "text":  "CHARGE!!!"
+                                           },
+                                           {
+                                               "id":  "pt-success-10",
+                                               "speaker":  "Ally",
+                                               "text":  "In moments such as this, to sally forth with gallantry is all an officer can do."
+                                           },
+                                           {
+                                               "id":  "pt-success-11",
+                                               "speaker":  "Ally",
+                                               "text":  "Your tactical acumen is something to behold. We shall measure up to it."
+                                           },
+                                           {
+                                               "id":  "pt-success-12",
+                                               "speaker":  "Ally",
+                                               "text":  "Taking orders from a minor merc outfit...what would my father say about that?"
+                                           },
+                                           {
+                                               "id":  "pt-success-13",
+                                               "speaker":  "Ally",
+                                               "text":  "{commander}, that's an insightful call. We've got it covered."
+                                           },
+                                           {
+                                               "id":  "pt-success-14",
+                                               "speaker":  "Ally",
+                                               "text":  "Let's do this!"
+                                           },
+                                           {
+                                               "id":  "pt-success-15",
+                                               "speaker":  "Ally",
+                                               "text":  "Into the valley of glory ride my Lance."
+                                           },
+                                           {
+                                               "id":  "pt-success-16",
+                                               "speaker":  "Ally",
+                                               "text":  "By your command."
+                                           },
+                                           {
+                                               "id":  "pt-success-17",
+                                               "speaker":  "Ally",
+                                               "text":  "It's time to shine, we're on it, {commander}."
+                                           },
+                                           {
+                                               "id":  "pt-success-18",
+                                               "speaker":  "Ally",
+                                               "text":  "That's a sharp eye you have there {commander}, I can't fault it."
+                                           },
+                                           {
+                                               "id":  "pt-success-19",
+                                               "speaker":  "Ally",
+                                               "text":  "Time to bring the thunder at your call."
+                                           },
+                                           {
+                                               "id":  "pt-success-20",
+                                               "speaker":  "Ally",
+                                               "text":  "We've got the line, on it for you."
+                                           },
+                                           {
+                                               "id":  "pt-success-21",
+                                               "speaker":  "Ally",
+                                               "text":  "We come in peace; shoot to kill!"
+                                           },
+                                           {
+                                               "id":  "pt-success-22",
+                                               "speaker":  "Ally",
+                                               "text":  "For the greater good!"
+                                           },
+                                           {
+                                               "id":  "pt-success-23",
+                                               "speaker":  "Ally",
+                                               "text":  "As you say, {commander}, we'll make it so."
+                                           },
+                                           {
+                                               "id":  "pt-success-24",
+                                               "speaker":  "Ally",
+                                               "text":  "Here we go, let's make some noise."
+                                           }
+                                       ],
+                           "fail":  [
+                                        {
+                                            "id":  "pt-fail-01",
+                                            "speaker":  "Ally",
+                                            "text":  "Look at this little merc, thinks he's Napoleon."
+                                        },
+                                        {
+                                            "id":  "pt-fail-02",
+                                            "speaker":  "Ally",
+                                            "text":  "I'm not following that dumb order."
+                                        },
+                                        {
+                                            "id":  "pt-fail-03",
+                                            "speaker":  "Ally",
+                                            "text":  "You're the reason General Kerensky wrote his Applied Concepts of Attack and Defense."
+                                        },
+                                        {
+                                            "id":  "pt-fail-04",
+                                            "speaker":  "Ally",
+                                            "text":  "Have you even read A Primer to Tactics and Strategy?"
+                                        },
+                                        {
+                                            "id":  "pt-fail-05",
+                                            "speaker":  "Ally",
+                                            "text":  "Look at Sun-Tzu here, shouting orders like they know what's what."
+                                        },
+                                        {
+                                            "id":  "pt-fail-06",
+                                            "speaker":  "Ally",
+                                            "text":  "If I'm going to die, it won't be doing something dumb."
+                                        },
+                                        {
+                                            "id":  "pt-fail-07",
+                                            "speaker":  "Ally",
+                                            "text":  "This is a bad idea. I think so and so does my lance."
+                                        },
+                                        {
+                                            "id":  "pt-fail-08",
+                                            "speaker":  "Ally",
+                                            "text":  "Yeah, nah, that's a bag full of stupid."
+                                        },
+                                        {
+                                            "id":  "pt-fail-09",
+                                            "speaker":  "Ally",
+                                            "text":  "We're not here to F### spiders, {commander}."
+                                        },
+                                        {
+                                            "id":  "pt-fail-10",
+                                            "speaker":  "Ally",
+                                            "text":  "I don't take foolish orders from cocky mercenaries."
+                                        },
+                                        {
+                                            "id":  "pt-fail-11",
+                                            "speaker":  "Ally",
+                                            "text":  "That's not going to happen, {commander}."
+                                        },
+                                        {
+                                            "id":  "pt-fail-12",
+                                            "speaker":  "Ally",
+                                            "text":  "Where'd you learn to give orders like that?"
+                                        },
+                                        {
+                                            "id":  "pt-fail-13",
+                                            "speaker":  "Ally",
+                                            "text":  "That's a hard no, {commander}."
+                                        },
+                                        {
+                                            "id":  "pt-fail-14",
+                                            "speaker":  "Ally",
+                                            "text":  "I've seen monkeys give clearer orders than that."
+                                        },
+                                        {
+                                            "id":  "pt-fail-15",
+                                            "speaker":  "Ally",
+                                            "text":  "We do not take orders from mercs with their heads up their asses."
+                                        },
+                                        {
+                                            "id":  "pt-fail-16",
+                                            "speaker":  "Ally",
+                                            "text":  "That's not an order we can follow."
+                                        },
+                                        {
+                                            "id":  "pt-fail-17",
+                                            "speaker":  "Ally",
+                                            "text":  "Are you reading that map upside down?"
+                                        },
+                                        {
+                                            "id":  "pt-fail-18",
+                                            "speaker":  "Ally",
+                                            "text":  "That's not going to happen, not today, not ever."
+                                        },
+                                        {
+                                            "id":  "pt-fail-19",
+                                            "speaker":  "Ally",
+                                            "text":  "Look at von Clausewitz here, thinking they can take the Inner Sphere with one manoeuvre."
+                                        },
+                                        {
+                                            "id":  "pt-fail-20",
+                                            "speaker":  "Ally",
+                                            "text":  "I did not attend the best military academies to take orders from untrained mercenaries."
+                                        },
+                                        {
+                                            "id":  "pt-fail-21",
+                                            "speaker":  "Ally",
+                                            "text":  "I'm not getting decorated posthumously today, thanks all the same, {commander}."
+                                        },
+                                        {
+                                            "id":  "pt-fail-22",
+                                            "speaker":  "Ally",
+                                            "text":  "We don't do that sort of thing where I come from."
+                                        },
+                                        {
+                                            "id":  "pt-fail-23",
+                                            "speaker":  "Ally",
+                                            "text":  "I'm not expending my people for that order, {commander}."
+                                        },
+                                        {
+                                            "id":  "pt-fail-24",
+                                            "speaker":  "Ally",
+                                            "text":  "Are you high?"
+                                        }
+                                    ]
+                       },
+    "intimidation":  {
+                         "success":  [
+                                         {
+                                             "id":  "int-success-01",
+                                             "speaker":  "Commander",
+                                             "text":  "This deal better be real!"
+                                         },
+                                         {
+                                             "id":  "int-success-02",
+                                             "speaker":  "Commander",
+                                             "text":  "Oh god, I surrender."
+                                         },
+                                         {
+                                             "id":  "int-success-03",
+                                             "speaker":  "Commander",
+                                             "text":  "I'll do whatever you ask, just don't kill me."
+                                         },
+                                         {
+                                             "id":  "int-success-04",
+                                             "speaker":  "Commander",
+                                             "text":  "I'm out of here."
+                                         },
+                                         {
+                                             "id":  "int-success-05",
+                                             "speaker":  "Commander",
+                                             "text":  "Jumping!"
+                                         },
+                                         {
+                                             "id":  "int-success-06",
+                                             "speaker":  "Commander",
+                                             "text":  "You can have my 'Mechs, just let me live."
+                                         },
+                                         {
+                                             "id":  "int-success-07",
+                                             "speaker":  "Commander",
+                                             "text":  "I surrender, I surrender!"
+                                         },
+                                         {
+                                             "id":  "int-success-08",
+                                             "speaker":  "Commander",
+                                             "text":  "My dishonour will know no end."
+                                         },
+                                         {
+                                             "id":  "int-success-09",
+                                             "speaker":  "Commander",
+                                             "text":  "My family are disgraced today."
+                                         },
+                                         {
+                                             "id":  "int-success-10",
+                                             "speaker":  "Commander",
+                                             "text":  "I should have studied agriculture!"
+                                         },
+                                         {
+                                             "id":  "int-success-11",
+                                             "speaker":  "Commander",
+                                             "text":  "To the heavens I go!"
+                                         },
+                                         {
+                                             "id":  "int-success-12",
+                                             "speaker":  "Commander",
+                                             "text":  "I cannot show my face to my family after this."
+                                         },
+                                         {
+                                             "id":  "int-success-13",
+                                             "speaker":  "Target",
+                                             "text":  "I'll do as you wish, just spare my people."
+                                         },
+                                         {
+                                             "id":  "int-success-14",
+                                             "speaker":  "Target",
+                                             "text":  "I go, I go now to a better place."
+                                         },
+                                         {
+                                             "id":  "int-success-15",
+                                             "speaker":  "Target",
+                                             "text":  "Your words make sense, there is no longer gain in fighting you."
+                                         },
+                                         {
+                                             "id":  "int-success-16",
+                                             "speaker":  "Target",
+                                             "text":  "As you say, fighting further has no meaning."
+                                         },
+                                         {
+                                             "id":  "int-success-17",
+                                             "speaker":  "Target",
+                                             "text":  "I'd rather surrender than die for nothing."
+                                         },
+                                         {
+                                             "id":  "int-success-18",
+                                             "speaker":  "Target",
+                                             "text":  "My lord will disown me, but there are paths to redemption."
+                                         },
+                                         {
+                                             "id":  "int-success-19",
+                                             "speaker":  "Target",
+                                             "text":  "No commission is worth this."
+                                         },
+                                         {
+                                             "id":  "int-success-20",
+                                             "speaker":  "Target",
+                                             "text":  "There are days we regret, this is truly one of them."
+                                         },
+                                         {
+                                             "id":  "int-success-21",
+                                             "speaker":  "Target",
+                                             "text":  "I wish to fight no longer."
+                                         },
+                                         {
+                                             "id":  "int-success-22",
+                                             "speaker":  "Target",
+                                             "text":  "Failure is such a deep disgrace."
+                                         },
+                                         {
+                                             "id":  "int-success-23",
+                                             "speaker":  "Target",
+                                             "text":  "I give up, I can battle you no longer."
+                                         },
+                                         {
+                                             "id":  "int-success-24",
+                                             "speaker":  "Target",
+                                             "text":  "This mark of shame I will carry forever."
+                                         }
+                                     ],
+                         "fail":  [
+                                      {
+                                          "id":  "int-fail-01",
+                                          "speaker":  "Commander",
+                                          "text":  "King Kong ain't got nothing on me!"
+                                      },
+                                      {
+                                          "id":  "int-fail-02",
+                                          "speaker":  "Commander",
+                                          "text":  "I bow to no intimidation!"
+                                      },
+                                      {
+                                          "id":  "int-fail-03",
+                                          "speaker":  "Commander",
+                                          "text":  "You are nothing, I do not fear you."
+                                      },
+                                      {
+                                          "id":  "int-fail-04",
+                                          "speaker":  "Commander",
+                                          "text":  "Are you high?"
+                                      },
+                                      {
+                                          "id":  "int-fail-05",
+                                          "speaker":  "Commander",
+                                          "text":  "Bahahahah. You cannot intimidate me."
+                                      },
+                                      {
+                                          "id":  "int-fail-06",
+                                          "speaker":  "Commander",
+                                          "text":  "Walk away, little merc, before we kill you."
+                                      },
+                                      {
+                                          "id":  "int-fail-07",
+                                          "speaker":  "Commander",
+                                          "text":  "If you can't kill me with your 'Mech, why do you think you can defeat me with words?"
+                                      },
+                                      {
+                                          "id":  "int-fail-08",
+                                          "speaker":  "Commander",
+                                          "text":  "There is no honour in surrendering to the likes of you."
+                                      },
+                                      {
+                                          "id":  "int-fail-09",
+                                          "speaker":  "Commander",
+                                          "text":  "I won't give you the satisfaction of taking my family 'Mech until it lies broken."
+                                      },
+                                      {
+                                          "id":  "int-fail-10",
+                                          "speaker":  "Commander",
+                                          "text":  "You try to shame me like this? You will die for such words."
+                                      },
+                                      {
+                                          "id":  "int-fail-11",
+                                          "speaker":  "Commander",
+                                          "text":  "I've heard better smack talk from five year olds."
+                                      },
+                                      {
+                                          "id":  "int-fail-12",
+                                          "speaker":  "Commander",
+                                          "text":  "You bore me, let's fight some more."
+                                      },
+                                      {
+                                          "id":  "int-fail-13",
+                                          "speaker":  "Target",
+                                          "text":  "I do not fear you, or death."
+                                      },
+                                      {
+                                          "id":  "int-fail-14",
+                                          "speaker":  "Target",
+                                          "text":  "I will not dishonour my name by surrendering to the likes of you."
+                                      },
+                                      {
+                                          "id":  "int-fail-15",
+                                          "speaker":  "Target",
+                                          "text":  "You can have my 'Mech once you pry my cold, dead corpse from it."
+                                      },
+                                      {
+                                          "id":  "int-fail-16",
+                                          "speaker":  "Target",
+                                          "text":  "You honourless dog. You seek to claim that to which you have no right."
+                                      },
+                                      {
+                                          "id":  "int-fail-17",
+                                          "speaker":  "Target",
+                                          "text":  "If you cannot defeat me with skill, what makes you think you can do so with words?"
+                                      },
+                                      {
+                                          "id":  "int-fail-18",
+                                          "speaker":  "Target",
+                                          "text":  "Go walk off a cliff, Merc."
+                                      },
+                                      {
+                                          "id":  "int-fail-19",
+                                          "speaker":  "Target",
+                                          "text":  "You're a cheeky bastard, aren't you?"
+                                      },
+                                      {
+                                          "id":  "int-fail-20",
+                                          "speaker":  "Target",
+                                          "text":  "You think that you can frighten me?"
+                                      },
+                                      {
+                                          "id":  "int-fail-21",
+                                          "speaker":  "Target",
+                                          "text":  "Words cannot break me, only your 'Mech can."
+                                      },
+                                      {
+                                          "id":  "int-fail-22",
+                                          "speaker":  "Target",
+                                          "text":  "If you were a real MechWarrior, you would know better than trying to use words against someone like me."
+                                      },
+                                      {
+                                          "id":  "int-fail-23",
+                                          "speaker":  "Target",
+                                          "text":  "Does your family know you are both deceitful and unskilled?"
+                                      },
+                                      {
+                                          "id":  "int-fail-24",
+                                          "speaker":  "Target",
+                                          "text":  "You make me laugh, little mercenary."
+                                      }
+                                  ]
+                     }
+}
