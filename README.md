@@ -22,3 +22,5 @@ The three orders share a cooldown period, so you choose: massed fire, a repositi
 
 **Depends On**
 Requires ModTek and Abilifier. Intimidation also requires PanicSystem. Best with Mission Control allied lances and Better AI.
+
+<img width="1920" height="1080" alt="20260919081702_1" src="https://github.com/user-attachments/assets/79d8f985-62ed-4b85-9d4d-f86092ecb105" />
