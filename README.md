@@ -6,7 +6,7 @@ Command Abilities gives your player commander three combat orders. You can tell 
 
 This mod was designed to support players undertaking the Lore Pack missions, which often have large, supportign aliied forces.
 
-#Overview
+##Overview
 
 This mod is for the player commander only; It is not a skill-tree pick and is never granted to the AI. In combat, three extra buttons sit on the MechWarrior tray and using any of them spends your firing action for that activation. Using any one prevents all three from activating until the 4 round cooldown has completed.
 
